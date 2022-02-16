@@ -1,0 +1,17 @@
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.exe
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.deps.json
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.runtimeconfig.json
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.runtimeconfig.dev.json
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.dll
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\bin\Release\netcoreapp3.1\CNAAPrograme.pdb
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.CCNAForms.resources
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.Form1.resources
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.LearningPosibilities.resources
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.Properties.Resources.resources
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.csproj.GenerateResource.cache
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.AssemblyInfoInputs.cache
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.AssemblyInfo.cs
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.csproj.CoreCompileInputs.cache
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.dll
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.pdb
+C:\Users\Atgod\source\repos\CNAAPrograme\CNAAPrograme\obj\Release\netcoreapp3.1\CNAAPrograme.genruntimeconfig.cache

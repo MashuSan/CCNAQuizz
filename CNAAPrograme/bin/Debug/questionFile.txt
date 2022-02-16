@@ -1,0 +1,194 @@
+1.	"Ktorá vrstva modelu TCP/IP poskytuje cestu na preposielanie správ cez sieť?"
+"Aplikačná","Sieťová","Transportná","Vrstva sieťového rozhrania","Sieťová"
+	
+2.	"Ktorá bezdrôtová technológia má požiadavky na nízku spotrebu a rýchlosť prenosu dát, vďaka čomu je populárna v aplikáciách domácej automatizácie?"
+"ZigBee","LoRaWAN","5G","Wi-Fi","ZigBee"
+
+3.	"Aká charakteristika charakterizuje vírus?"		
+"sieťové zariadenie, ktoré filtruje prístup a prevádzku prichádzajúcu do siete","použitie ukradnutých prihlasovacích údajov na prístup k súkromným údajom","útok, ktorý spomalí alebo zrúti zariadenie alebo sieťovú službu","škodlivý softvér alebo kód spustený na koncovom zariadení"
+
+4.	"Akú službu poskytuje Internet Messenger?"
+"Aplikácia, ktorá umožňuje chatovanie medzi vzdialenými používateľmi v reálnom čase","Umožňuje vzdialený prístup k sieťovým zariadeniam a serverom","Rozkladá názvy domén, ako napríklad cisco.com, na adresy IP","Používa šifrovanie na zabezpečenie bezpečného vzdialeného prístupu k sieťovým zariadeniam a serverom","Aplikácia, ktorá umožňuje chatovanie medzi vzdialenými používateľmi v reálnom čase"
+
+5.	 "Ktoré dve funkcie sa vykonávajú na podvrstve MAC vrstvy dátového spojenia OSI na uľahčenie ethernetovej komunikácie? (Vyberte dve.)"
+"integruje toky vrstvy 2 medzi 10 Gigabit Ethernet cez vlákno a 1 Gigabit Ethernet cez medené","umožňuje IPv4 a IPv6 využívať rovnaké fyzické médium","zabezpečuje komunikáciu medzi sieťovým softvérom vyššej vrstvy a hardvérom Ethernet NIC","pridáva riadiace informácie Ethernet k údajom sieťového protokolu","implementuje CSMA/CD cez staršie zdieľané poloduplexné médiá","integruje toky vrstvy 2 medzi 10 Gigabit Ethernet cez vlákno a 1 Gigabit Ethernet cez medené,implementuje CSMA/CD cez staršie zdieľané poloduplexné médiá"
+
+6.	"Akú službu poskytuje HTTPS?"
+"Používa šifrovanie na zabezpečenie bezpečného vzdialeného prístupu k sieťovým zariadeniam a serverom","Rozkladá názvy domén, ako napríklad cisco.com, na adresy IP","•	Používa šifrovanie na zabezpečenie výmeny textu, grafických obrázkov, zvuku a videa na webe","Umožňuje vzdialený prístup k sieťovým zariadeniam a serverom","Používa šifrovanie na zabezpečenie výmeny textu, grafických obrázkov, zvuku a videa na webe"
+
+7.	"Aká charakteristika opisuje útok DoS?"
+"použitie ukradnutých prihlasovacích údajov na prístup k súkromným údajom","sieťové zariadenie, ktoré filtruje prístup a prevádzku prichádzajúcu do siete","softvér, ktorý je nainštalovaný na používateľskom zariadení a zhromažďuje informácie o používateľovi","útok, ktorý spomalí alebo zrúti zariadenie alebo sieťovú službu","útok, ktorý spomalí alebo zrúti zariadenie alebo sieťovú službu"
+
+8.	"Ktoré dva protokoly fungujú na najvyššej vrstve sady protokolov TCP/IP? (Vyberte dva.)"
+"TCP/IP","IP","UDP","POP","DNS","Ethernet","POP,DNS"
+
+9.	"Aké tri požiadavky definujú protokoly používané v sieťových komunikáciách na umožnenie prenosu správ cez sieť? (Vyberte tri.)"
+"veľkosť správy","kódovanie správy","špecifikácie konektorov","výber média","možnosti doručenia","inštalácia koncového zariadenia","veľkosť správy,kódovanie správy,možnosti doručenia"
+
+10.	"Aké sú dve vlastnosti IP? (Vyberte dve.)"
+"nevyžaduje špeciálne pripojenie typu end-to-end","funguje nezávisle od sieťového média","opakovane vysiela pakety, ak sa vyskytnú chyby","znovu zostaví pakety mimo požiadavky do správneho poradia na strane prijímača","garantuje doručenie paketov","nevyžaduje špeciálne pripojenie typu end-to-end,funguje nezávisle od sieťového média"
+
+11.	"Aké sú dve správy ICMPv6, ktoré sa nenachádzajú v protokole ICMP pre IPv4? (Vyberte dve.)"
+"Vyzývanie susedov","Cieľ nedostupný","Potvrdenie hostiteľa","Prekročený čas","Reklama smerovača","Presmerovanie trasy","Vyzývanie susedov,Reklama smerovača"
+
+12.	"Čo sa stane, keď sa príkaz transport input ssh zadá do riadkov switch vty?"
+"Klient SSH na prepínači je povolený","Prepínač vyžaduje pre vzdialený prístup kombináciu používateľského mena a hesla","Komunikácia medzi prepínačom a vzdialenými používateľmi je šifrovaná","Prepínač vyžaduje vzdialené pripojenie prostredníctvom proprietárneho klientskeho softvéru","Komunikácia medzi prepínačom a vzdialenými používateľmi je šifrovaná"
+
+13.	"Klientský paket je prijatý serverom. Paket má cieľové číslo portu 67. Akú službu klient požaduje?"
+"FTP","DHCP","Telnet","SSH","DHCP"
+
+14.	"Aké sú dva najefektívnejšie spôsoby obrany proti malvéru? (Vyberte dve.)"
+"Implementovať VPN","Implementovať sieťové brány firewall","Implementovať RAID","Implementovať silné heslá","Aktualizovať operačný systém a ďalší aplikačný softvér","Nainštalovať a aktualizovať antivírusový softvér","Aktualizovať operačný systém a ďalší aplikačný softvér,Nainštalovať a aktualizovať antivírusový softvér"
+
+15.	"Ktoré dve bezpečnostné riešenia sa s najväčšou pravdepodobnosťou využijú iba v podnikovom prostredí? (Vyberte dve.)"
+"Antispyware","virtuálne privátne siete","systémy prevencie vniknutia","silné heslá","antivirusový softvér","virtuálne privátne siete,systémy prevencie vniknutia"
+
+16.	"Aké sú tri časti globálnej adresy IPv6 unicast? (Vyberte tri.)"
+"ID podsiete","maska podsiete","vysielacia adresa","globálny smerovací prefix","ID rozhrania","ID podsiete,globálny smerovací prefix,ID rozhrania"
+
+17.	"Ktorá metóda prepínania zahodí snímky, ktoré neprejdú kontrolou FCS?"
+"ukladanie a prepínanie ďalej","bezokrajové prepínanie","ukladanie vstupného portu do vyrovnávacej pamäte","prechodové prepínanie","ukladanie a prepínanie ďalej"
+
+18.	"Aké sú dve hlavné zodpovednosti podvrstvy Ethernet MAC? (Vyberte dve.)"
+"detekcia chýb","ohraničenie framov","prístup k médiám","zapuzdrenie údajov","logické adresovanie","prístup k médiam,zapuzdrenie údajov"
+
+19.	"Aká vlastnosť opisuje krádež identity?"
+"použitie ukradnutých prihlasovacích údajov na prístup k súkromným údajom","softvér na smerovači, ktorý filtruje prevádzku na základe adries IP alebo aplikácií","softvér, ktorý identifikuje rýchlo sa šíriace hrozby","tunelový protokol, ktorý poskytuje vzdialeným používateľom bezpečný prístup do siete organizácie","použitie ukradnutých prihlasovacích údajov na prístup k súkromným údajom"
+
+20.	"Aká charakteristika popisuje VPN?"
+"softvér na smerovači, ktorý filtruje prevádzku na základe adries IP alebo aplikácií","softvér, ktorý identifikuje rýchlo sa šíriace hrozby","tunelový protokol, ktorý poskytuje vzdialeným používateľom bezpečný prístup do siete organizácie","sieťové zariadenie, ktoré filtruje prístup a prevádzku prichádzajúcu do siete","tunelový protokol, ktorý poskytuje vzdialeným používateľom bezpečný prístup do siete organizácie"
+
+1.	"Aká metóda sa používa na spustenie útoku preskakovania VLAN?"
+"zavádzanie nečestného prepínača a umožnenie trunkingu","odosielanie falošných natívnych informácií VLAN","odosielanie falošných IP adries od útočiaceho hostiteľa","zahltenie switchu MAC adresami","zavádzanie nečestného prepínača a umožnenie trunkingu"
+
+2.	"Ktoré tvrdenie je správne o tom, ako prepínač vrstvy 2 určuje, ako preposielať snímky?"
+"Rozhodnutia o preposielaní rámcov sú založené na MAC adrese a mapovaní portov v tabuľke CAM.","Na všetky aktívne porty prepínača sa preposielajú iba rámce s adresou vysielania.","Preposielanie prerezaných snímok zaisťuje, že neplatné snímky budú vždy vypustené.","Rozhodnutia o preposielaní rámcov sú založené na MAC adrese a mapovaní portov v tabuľke CAM."
+
+3.	"Ktorý výrok popisuje výsledok po prepojení viacerých Cisco LAN prepínačov?"
+"Doména vysielania sa rozšíri na všetky prepínače.","Na jeden prepínač existuje jedna kolízna doména.","Na každý prepínač je jedna vysielacia doména a jedna kolízna doména.","Kolízie rámov sa zvyšujú na segmentoch spájajúcich prepínače.","Unicast rámce sa vždy preposielajú bez ohľadu na cieľovú MAC adresu.","Doména vysielania sa rozšíri na všetky prepínače."
+
+4. 	"Čo je možnosť bezpečnej konfigurácie pre vzdialený prístup k sieťovému zariadeniu?"
+"Nakonfigurovať ACL a aplikujte ho na linky VTY.","Nakonfigutovať 802.1x.","Nakonfigurovať SSH.","Nakonfigurovať Telnet.","Nakonfigurovať SSH."
+
+5.	"Ako bude smerovač inak spracovávať statické smerovanie, ak je vypnuté presmerovanie Cisco Express?"
+"Nebude vykonávať rekurzívne vyhľadávanie.","Rozhrania Ethernet s viacerými prístupmi budú vyžadovať plne špecifikované statické trasy, aby sa predišlo nekonzistentnosti v smerovaní.","Statické trasy, ktoré používajú výstupné rozhranie, budú zbytočné.","Sériové rozhrania point-to-point budú vyžadovať plne špecifikované statické trasy, aby sa predišlo nezrovnalostiam v smerovaní.","Rozhrania Ethernet s viacerými prístupmi budú vyžadovať plne špecifikované statické trasy, aby sa predišlo nekonzistentnosti v smerovaní."
+
+6.	"Aké sú dve výhody používania statických trás na smerovači v porovnaní s dynamickými trasami? (Vyberte dve.)"
+"Zlepšujú bezpečnosť siete.","Konvergovanie im trvá menej času, keď sa zmení topológia siete.","Zlepšujú efektivitu objavovania susedných sietí.","Používajú menej prostriedkov smerovača.","Zlepšujú bezpečnosť siete.,Používajú menej prostriedkov smerovača."
+
+7.	"Ktoré dva výroky sú charakteristikou smerovaných portov na viacvrstvovom prepínači? (Vyberte dve.)"
+"V prepínanej sieti sú väčšinou konfigurované medzi prepínačmi na základnej a distribučnej vrstve.","Na vytvorenie VLAN na smerovaných portoch je potrebné zadať príkaz interface vlan.","Podporujú podrozhrania, ako sú rozhrania na smerovačoch Cisco IOS.","Používajú sa na spojenia typu point-to-multipoint.","Nie sú spojené s konkrétnou VLAN.","V prepínanej sieti sú väčšinou konfigurované medzi prepínačmi na základnej a distribučnej vrstve.,Nie sú spojené s konkrétnou VLAN."
+
+8.	"Ktoré dve funkcie vykonáva WLC pri použití riadenia prístupu k rozdeleniu médií (MAC)? (Vyberte dve.)"
+"potvrdenia paketov a opakovaných prenosov","radenie rámcov a prioritizácia paketov","majáky a odozvy sond","preklad rámcov do iných protokolov","združovanie a opätovné združovanie roamingových klientov","preklad rámcov do iných protokolov,združovanie a opätovné združovanie roamingových klientov"
+
+9.	"Ktorý sieťový útok je zmiernený povolením ochrany BPDU?"
+"nečestné prepínače v sieti","Útoky pri pretečení CAM tabuliek","Spoofing MAC adresy","nečestné servery DHCP v sieti","nečestné prepínače v sieti"
+
+10.	"Aké informácie používa prepínač na vyplnenie tabuľky MAC adries?"
+"cieľovú MAC adresu a prichádzajúci port","cieľovú MAC adresu a odchádzajúci port","zdrojovú a cieľovú MAC adresu a prichádzajúci port","zdrojovú a cieľovú MAC adresu a odchádzajúci port","zdrojovú MAC adresu a prichádzajúci port","zdrojovú MAC adresu a odchádzajúci port","zdrojovú MAC adresu a prichádzajúci port"
+
+11.	 "Aký protokol alebo technológia definuje skupinu smerovačov, z ktorých jeden je definovaný ako aktívny a druhý ako pohotovostný?"
+"EtherChannel","VTP","HSRP","DTP","HSRP"
+
+12. 	"Ktoré tri páry trunkových režimov vytvoria funkčné prepojenie medzi dvoma Cisco prepínačmi? (Vyberte tri.)"
+"dynamický žiadúci – dynamický žiadúci","dynamický žiadúci – trunk","dynamický automatický – dynamický automatický","prístupový – dynamický automatický","dynamický žiaduci – dynamický automatický","prístupový – trunk","dynamický žiadúci – dynamický žiadúci,dynamický automatický – dynamický automatický,prístupový – dynamický automatický",
+
+13.	"Akú správu DHCPv4 klient odošle, aby prijal adresu IPv4, ktorú ponúka server DHCP?"
+"broadcast DHCPACK","broadcast DHCPREQUEST","unicast DHCPACK","unicast DHCPREQUEST","broadcast DHCPREQUEST"
+
+14.	"Ktorý protokol zvyšuje bezpečnosť vzdialených pripojení?"
+"FTP","HTTP","NetBEUI","POP","SSH","SSH"
+
+15.	"Aký protokol alebo technológia používa zdrojovú IP na cieľovú IP ako mechanizmus vyrovnávania záťaže?"
+"VTP","EtherChannel","DTP","STP","DTP"
+
+16.	"Aké sú tri techniky na zmiernenie útokov VLAN? (Vyberte tri.)"
+"Používať súkromné VLAN siete.","Povoliť ochranu BPDU.","Manuálne aktivovať trunking.","Povoliť ochranu zdroja.","Zakázať DTP.","Nastaviť natívnu VLAN na nepoužívanú VLAN.","Manuálne aktivovať trunking.,Zakázať DTP.,Nastaviť natívnu VLAN na nepoužívanú VLAN."
+
+17.	"Aký spôsob bezdrôtovej autentifikácie závisí od autentifikačného servera RADIUS?"
+"WEP","WPA personal","WPA2 personal","WPA2 Enterprise","WPA2 Enterprise"
+
+18.	"Čo sa stane, keď zdrojová MAC adresa rámca vstupujúceho do prepínača nie je v tabuľke MAC adries?"
+"Prepínač pridá položku tabuľky MAC adries pre cieľovú MAC adresu a výstupný port.","Prepínač pridá do tabuľky MAC adresu a číslo prichádzajúceho portu.","Prepínač nahrádza starú položku a používa aktuálnejší port.","Prepínač aktualizuje časovač obnovenia pre položku.","Prepínač pridá do tabuľky MAC adresu a číslo prichádzajúceho portu."
+
+19.	"Aké sú dve charakteristiky prepínača, ktoré by mohli pomôcť zmierniť preťaženie siete? (Vyberte dve.)"
+"rýchle vnútorné prepínanie","veľké vyrovnávacie pamäte framov","ukladanie a prepínanie ďalej","nízka hustota portov","kontrola sekvencie rámca (FCS).","rýchle vnútorné prepínanie,veľké vyrovnávacie pamäte framov"
+
+20.	"Čo je výsledkom spojenia dvoch alebo viacerých prepínačov?"
+"Zvýši sa počet vysielacích domén.","Veľkosť vysielacej domény sa zväčší.","Počet kolíznych domén je znížený.","Veľkosť kolíznej domény sa zväčší.","Veľkosť vysielacej domény sa zväčší."
+
+1.	"Ktorá konštrukčná funkcia obmedzí veľkosť domény zlyhania v podnikovej sieti?"
+"nákup podnikového vybavenia, ktoré je navrhnuté pre veľký objem dopravy","inštalácia redundantných zdrojov napájania","použitie konštrukcie zloženého jadra","použitie prístupu stavebného spínača","použitie prístupu stavebného spínača"
+
+2.	"Ktoré dve veci by mal správca siete upraviť na smerovači, aby vykonal obnovenie hesla? (Vyberte dve.)"
+"súbor obrazu systému","súborový systém NVRAM","hodnotu konfiguračného registra","konfiguračný súbor pri spustení","systémová ROM,hodnotu konfiguračného registra"
+
+3.	"Aký typ siete využíva jednu spoločnú infraštruktúru na prenos hlasových, dátových a obrazových signálov?"
+"bezhraničnú","konvergovanú","organizovanú","prepnutú","konvergovanú"
+
+4.	"Čo je charakteristické pre jednoplošnú sieť OSPF?"
+"Všetky smerovače zdieľajú spoločnú databázu preposielania.","Všetky smerovače majú rovnakú tabuľku susedov.","Všetky smerovače sú v oblasti chrbtice.","Všetky smerovače majú rovnakú smerovaciu tabuľku.","Všetky smerovače sú v oblasti chrbtice."
+
+5.	"Aký typ paketu OSPF používa smerovač na zistenie susedných smerovačov a vytvorenie susedstva?"
+"aktualizácia stavu odkazu","Ahoj","popis databázy","žiadosť o stav odkazu","Ahoj"
+
+6.	"Ktoré dva protokoly IPsec sa používajú na zabezpečenie integrity údajov?"
+"MD5","DH","AES","SHA","RSA","MD5","SHA"
+
+7.	"Aké sú dva typy pripojení VPN? (Vyberte dve.)"
+"PPPoE","Frame Relay","site-to-site","vzdialený prístup","prenajatý okruh","site-to-site","vzdialený prístup"
+
+8.	"Čo sa používa na predbežné vyplnenie tabuľky susedstva na zariadeniach Cisco, ktoré používajú CEF na spracovanie paketov?"
+"FIB","smerovacia tabuľku","tabuľka ARP","DSP","tabuľka ARP"
+
+9.	"Aké dva typy útokov sa používajú na otvorené prekladače DNS? (Vyberte dve.)"
+"zosilnenie a odraz","využitie zdrojov","rýchly tok","Otrava ARP","Odpruženie","zosilnenie a odraz","využitie zdrojov"
+
+10.	"Ktorý protokol poskytuje služby overovania, integrity a dôvernosti a je typom VPN?"
+"MD5","AES","IPsec","ESP","IPsec"
+
+11.	"Aké sú dva účely spustenia prieskumného útoku na sieť? (Vyberte dve.)"
+"skenovať dostupnosť","na načítanie a úpravu údajov","na zhromažďovanie informácií o sieti a zariadeniach","zabrániť iným používateľom v prístupe do systému","eskalovať prístupové právaň","skenovať dostupnosť,na zhromažďovanie informácií o sieti a zariadeniach"
+
+12.	"Aká je hlavná funkcia hypervízora?"
+"Používa sa na vytváranie a správu viacerých inštancií VM na hostiteľskom počítači.","Ide o zariadenie, ktoré filtruje a kontroluje bezpečnostné poverenia.","Ide o zariadenie, ktoré synchronizuje skupinu senzorov.","Je to softvér používaný na koordináciu a prípravu údajov na analýzu.","Používajú ho poskytovatelia internetových služieb na monitorovanie zdrojov cloud computingu.","Používa sa na vytváranie a správu viacerých inštancií VM na hostiteľskom počítači."
+
+13.	"Ak má smerovač dve rozhrania a smeruje prenos IPv4 aj IPv6, koľko ACL možno vytvoriť a použiť naň?"
+"12","4","8","16","6","8"
+
+14.	"Aký je konečný prevádzkový stav, ktorý sa vytvorí medzi OSPF DR a DROTHER, keď smerovače dosiahnu konvergenciu?"
+"načítavaý","založený","plný","obojsmerný","plný"
+
+15.	"Aký protokol odosiela pravidelné reklamy medzi pripojenými zariadeniami Cisco, aby bolo možné zistiť názov zariadenia, verziu IOS a počet a typ rozhraní?"
+"CDP","SNMP","NTP","LLDP","CDP"
+
+16.	"Aký typ paketu OSPFv2 sa používa na preposielanie informácií o zmene prepojenia OSPF?"
+"potvrdenie stavu odkazu","aktualizácia stavu odkazu","Ahoj","popis databázy","aktualizácia stavu odkazu"
+
+17.	"Ako virtualizácia pomáha pri obnove po havárii v dátovom centre?"
+"zlepšenie obchodných praktík","prísun rovnomerného prúdenia vzduchu","podpora živej migrácie","záruka moci","podpora živej migrácie"
+
+18.	"Aký typ prevádzky je opísaný ako s veľkým objemom dát na paket?"
+"údajov","video","hlas","video"
+
+19.	"Ktorý typ VPN sa pripája pomocou funkcie Transport Layer Security (TLS)?"
+"SSL VPN","Rozhranie virtuálneho tunela IPsec","GRE cez IPsec","dynamická viacbodová sieť VPN","SSL VPN"
+
+20.	"Ktorý typ siete VPN používa konfiguráciu typu hub-and-spoke na vytvorenie úplnej topológie siete?"
+"MPLS VPN","GRE cez IPsec","Rozhranie virtuálneho tunela IPsec","dynamická viacbodová sieť VPN","dynamická viacbodová sieť VPN"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
